@@ -1,0 +1,18 @@
+2018/03/27 09:30:07 [emerg] 17404#20832: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/27 09:56:22 [notice] 17804#9900: signal process started
+2018/03/27 09:56:22 [error] 17804#9900: OpenEvent("Global\ngx_reload_20952") failed (2: The system cannot find the file specified)
+2018/03/27 09:56:27 [notice] 19568#18368: signal process started
+2018/03/27 09:56:27 [error] 19568#18368: OpenEvent("Global\ngx_reload_20952") failed (2: The system cannot find the file specified)
+2018/03/27 09:56:52 [notice] 19484#20548: signal process started
+2018/03/27 09:56:52 [error] 19484#20548: OpenEvent("Global\ngx_reload_20952") failed (2: The system cannot find the file specified)
+2018/03/27 09:59:13 [notice] 21260#12704: signal process started
+2018/03/27 09:59:13 [error] 21260#12704: OpenEvent("Global\ngx_reload_20952") failed (2: The system cannot find the file specified)
+2018/03/27 10:02:59 [notice] 20868#21288: signal process started
+2018/03/27 10:02:59 [error] 20868#21288: OpenEvent("Global\ngx_reload_17636") failed (2: The system cannot find the file specified)
+2018/03/27 10:04:21 [notice] 14588#21364: signal process started
+2018/03/27 10:04:21 [error] 14588#21364: OpenEvent("Global\ngx_reload_17636") failed (2: The system cannot find the file specified)
+2018/03/27 10:05:02 [notice] 21228#18644: signal process started
+2018/03/27 10:05:05 [notice] 20112#18956: signal process started
+2018/03/27 10:05:08 [notice] 15400#21108: signal process started
+2018/03/27 10:05:08 [error] 15400#21108: OpenEvent("Global\ngx_reload_20692") failed (2: The system cannot find the file specified)
+2018/03/27 10:05:13 [notice] 20948#16128: signal process started
